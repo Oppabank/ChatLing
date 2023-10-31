@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "hello there",
+      "answer": "hello there"
+    },
+    {
+      "question": "good morning?",
+      "answer": "good morning hope you will have good day"
+    },
+    {
+      "question": "what is your name",
+      "answer": "Hello! my name is \"AI Chan\" "
+    },
+    {
+      "question": "i love you!",
+      "answer": "love you too!"
+    },
+    {
+      "question": "can you help me?",
+      "answer": "yeah sure just tell me..."
+    },
+    {
+      "question": "fuck poo",
+      "answer": "yeah fuck poo"
+    }
+  ]
+}
